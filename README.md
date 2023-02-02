@@ -5,5 +5,5 @@
  3. Валидация карточек на наличие ответов.</br>
  4. Реализация подсветки рамки у выбранных ответов.</br>
  5. Реализация прогрессбара.</br>
-Ссылка на проект: <a>https://sergeyfilatovv.github.io/projeckt-quiz/</a>
+ <p>Ссылка на проект: <a>https://sergeyfilatovv.github.io/projeckt-quiz/</a></p>
 
